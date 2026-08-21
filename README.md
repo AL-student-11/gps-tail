@@ -11,3 +11,6 @@ C++ - Logic
 
 ## Dependencies
 mapboxgl-qml
+
+## Borrowed
+Marker icons from https://github.com/rinigus/pure-maps
